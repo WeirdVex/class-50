@@ -1,0 +1,31 @@
+h1 {color: cyan;
+}
+*{
+    Border: solid;
+} 
+.header{
+    background-color: black;
+    color: cyan;
+    display:flex;
+    justify-content : space-between;
+}
+.grid{
+    background-color: black;
+    color: rgb(0, 255, 255);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content : space-evenly;
+}
+.footer{
+    background-color:black;
+    color: rgb(4, 255, 255);
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
+.menu{
+    background-color: black;
+    color: cyan;
+}
